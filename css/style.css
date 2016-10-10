@@ -4,3 +4,9 @@
   src: url('fonts/SCRIPTIN.ttf');
 }
 
+div.scroll {
+    background-color: #FFFFFF;
+    height:225px;
+    width: 100%;
+    overflow-x: scroll;
+}

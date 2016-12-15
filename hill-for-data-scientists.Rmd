@@ -21,7 +21,7 @@ Sir Austin Bradford Hill, a statistician and epidemiologist, created a list of g
 
 <br>
 
-This inspired me to attempt to explain Hill's criteria using xkcd comics (bear with me, some of these are a stretch 🙈💁🏻). 
+This inspired me to attempt to explain Hill's criteria using xkcd comics, both because it seemed fun, and also to motivate causal inference instructures to have some variety in which xkcd comic they include in lectures (bear with me, some of these are a stretch 🙈💁🏻). 
 
 
 

@@ -1,0 +1,34 @@
+---
+title: "Lucy's Presentations"
+---
+
+
+<iframe src='https://onedrive.live.com/embed?cid=E590185091C363B2&resid=E590185091C363B2%21112&authkey=AG9CBDB1YlCWq0s&em=2&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+
+## Invited Presentations
+
+1. [Lucy D'Agostino McGowan, Robert Alan Greevy, Jr, "Integrating SAS® and R to Perform Optimal Propensity Score Matching" Oral presentation at SAS Global Forum, Las Vegas, NV, April 2016.](http://support.sas.com/resources/papers/proceedings16/11420-2016.pdf)
+
+2. [Lucy D'Agostino McGowan, Alice Toll, "Using PROC SURVEYREG and PROC SURVEYLOGISTIC to Assess Potential Bias" Oral presentation at SAS Global Forum, Dallas, TX, April 2015. ](http://support.sas.com/resources/papers/proceedings15/3320-2015.pdf)
+
+3. [Lucy D’Agostino McGowan, Melody S. Goodman, Kimberly A. Kaphingst “Using SAS/STAT® Software to Validate a Health Literacy Prediction Model in a Primary Care Setting” Oral presentation at SAS Global Forum, Washington D.C. March 2014.](http://support.sas.com/resources/papers/proceedings14/1494-2014.pdf)
+
+## Contributed Presentations
+
+1. Lucy D’Agostino McGowan, Robert Alan Greevy Jr, "Practical Guidance and Tools for Sensitivity to Unmeasured Confouding "Tipping Point" Analyses" Poster presentation at the ASA Joint Statistical Meeting. Chicago, IL, August 2016.
+
+2. Ryan Jarrett, Lucy D’Agostino McGowan, "Assessing the Association Between Accident Injury Severity and NCAP Car Safety Ratings" Oral presentation at the ASA Joint Statistical Meeting. Chicago, IL, August 2016.
+
+3. Lucy D’Agostino McGowan, Alice Toll, “Census Tract-Level Disparities: Examining Food Swamps and Food Deserts” Oral and Poster presentation at the ASA Joint Statistical Meeting. Seattle, WA, August 2015.
+
+4. Lucy D’Agostino McGowan, Melody S. Goodman, “Developing County-Level Estimates of Racial Disparities in Obesity Using Multilevel Reweighted Regression” Poster presentation at the 141st American Public Health Association Annual Meeting. Boston, MA, November 2013.
+
+5. Lucy D’Agostino McGowan, Melody S. Goodman, “Small Areal Estimation of Racial Disparities in Diabetes Using Multilevel Reweighted Regression” Oral presentation at 141st American Public Health Association Annual Meeting. Boston, MA. November 2013.
+
+6. Lucy D'Agostino McGowan, Patrick J. McGowan, "Mining Through Resumes: Utilizing SAS to Increase Efficiency and Objectivity in the Hiring Process" Poster presentation at SAS Analytics. Orlando, Florida. October 2013.
+
+7. Lucy D’Agostino McGowan, “SAS ® for Budgeting an Ideal Wedding” Poster presentation at North East SAS Users Group Conference. Burlington, Vermont. September 2013.
+
+8. Lucy D’Agostino McGowan, Melody S. Goodman, “Using PROC GLIMMIX and PROC SGPLOT to Demonstrate County-level Racial Disparities in Obesity in North Carolina” Oral presentation at North East SAS Users Group Conference. Burlington, Vermont. September 2013.
+
+9. Lucy D’Agostino, Melody S. Goodman, “Multilevel Reweighted Regression Models to Estimate County-Level Racial Health Disparities Using PROC GLIMMIX” Oral presentation at SAS Global Forum, San Francisco, CA. April 2013.

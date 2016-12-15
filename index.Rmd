@@ -1,0 +1,70 @@
+---
+title: ""
+---
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85450191-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<br/><br/><br/><br/>
+<div class="row">
+<div class="col-xs-12 col-sm-5 text-center">
+<br/>
+<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/master/coffee.png" alt="coffee" style="width:400px;" align = "top"/> 
+</div>
+<div class="col-xs-12 col-sm-7">
+<span style="font-family:myFancyFont; font-size:3em;">These days I like to discuss</span>
+
+* [BB-8](https://www.facebook.com/groups/TNBB8Builders/)
+* Vanderbilt Biostatistics *PhD Student*
+* Big Data initiatives *Fellow in Vanderbilt's Inaugural Big Biomedical Data Science Program*
+* R-Ladies Nashville *Co-founder* <a href = "https://twitter.com/RLadiesNash"><img src="https://raw.githubusercontent.com/LucyMcGowan/GSC/gh-pages/logos/twitter_icon.png" alt="Twitter Logo" height="20" width="20" align ="top"></a>
+* [Monty Python](https://www.youtube.com/watch?v=npjOSLCR2hE)
+* Predictive models
+* Italian
+* Propensity scores
+* Vanderbilt [Graduate Student Council](https://studentorg.vanderbilt.edu/gsc/) *President*
+
+<span style="font-family:myFancyFont; font-size:3em;">over coffee...</span>
+
+</div>
+</div>
+
+
+<br/><br/><br/>
+
+***
+
+<br/><br/>
+
+<center>
+<div class="scroll">
+<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/6953f970de9ad5ed9b6b39ef7ac1072c08ad6948/DSC_0889.JPG" alt="car" style="height:225px;"/>
+<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/master/DSC_0170edit.jpg" alt="GrandCanyon" style="height:225px;"/>
+<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/master/DSC_2468.JPG" alt="Ireland" style="height: 225px;"/></div>
+</center>
+
+<br/><br/>
+
+***
+<br/><br/>
+
+## Recent Projects
+<br/><br/>
+
+### Nashville Housing Tool
+Created a tool for incoming graduate students to help with housing decisions.
+
+<iframe src="https://lucy.shinyapps.io/NashvilleMap/" style="border: none; width: 100%; height: 400px"></iframe>
+
+<br/><br/><br/><br/><br/><br/>
+
+### Binomial Coverage
+Created an application to facilitate an understanding of coverage probability.
+
+<iframe src="https://lucy.shinyapps.io/BinomialCoverage/" style="border: none; width: 100%; height: 400px"></iframe>

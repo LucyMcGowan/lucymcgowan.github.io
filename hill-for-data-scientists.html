@@ -9,9 +9,11 @@
 <meta name="generator" content="pandoc" />
 
 
+<meta name="author" content="Lucy D’Agostino McGowan" />
 
+<meta name="date" content="2016-12-15" />
 
-<title>Lucy’s Presentations</title>
+<title>Hill for the Data Scientist</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -231,35 +233,123 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Lucy’s Presentations</h1>
+<h1 class="title toc-ignore">Hill for the Data Scientist</h1>
+<h4 class="author"><em>Lucy D’Agostino McGowan</em></h4>
+<h4 class="date"><em>December 15, 2016</em></h4>
 
 </div>
 
 
-<iframe src="https://onedrive.live.com/embed?cid=E590185091C363B2&amp;resid=E590185091C363B2%21112&amp;authkey=AG9CBDB1YlCWq0s&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">
-This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.
-</iframe>
-<div id="invited-presentations" class="section level2">
-<h2>Invited Presentations</h2>
-<ol style="list-style-type: decimal">
-<li><p><a href="http://support.sas.com/resources/papers/proceedings16/11420-2016.pdf">Lucy D’Agostino McGowan, Robert Alan Greevy, Jr, “Integrating SAS® and R to Perform Optimal Propensity Score Matching” Oral presentation at SAS Global Forum, Las Vegas, NV, April 2016.</a></p></li>
-<li><p><a href="http://support.sas.com/resources/papers/proceedings15/3320-2015.pdf">Lucy D’Agostino McGowan, Alice Toll, “Using PROC SURVEYREG and PROC SURVEYLOGISTIC to Assess Potential Bias” Oral presentation at SAS Global Forum, Dallas, TX, April 2015.</a></p></li>
-<li><p><a href="http://support.sas.com/resources/papers/proceedings14/1494-2014.pdf">Lucy D’Agostino McGowan, Melody S. Goodman, Kimberly A. Kaphingst “Using SAS/STAT® Software to Validate a Health Literacy Prediction Model in a Primary Care Setting” Oral presentation at SAS Global Forum, Washington D.C. March 2014.</a></p></li>
-</ol>
+<p><em>This was inspired by Hilary Parker &amp; Roger Peng’s Not So Standard Deviations Episode 28, which can be found <a href="https://soundcloud.com/nssd-podcast/episode-28-writing-is-a-lot-harder-than-just-talking">here</a>. It was suggested that it would be useful to lay out Hill’s criterion for data scientists, I agree!</em></p>
+<center>
+<span style="color:#EB6864; font-size: 20pt">[<strong>causation</strong>: An event or outcome B is influenced by a change in A]</span>
+</center>
+<p><br> Sir Austin Bradford Hill, a statistician and epidemiologist referred to henceforth as SABH, created a list of guidelines for evaluating whether there is evidence of a causal relationship.[1] He determined the following aspects of associations ought to be considered when assessing causality. When thinking about this problem, an [xkcd] (<a href="https://xkcd.com/" class="uri">https://xkcd.com/</a>) comic I have seen in <em>every lecture</em> on this topic came to mind:</p>
+<center>
+<img src="http://imgs.xkcd.com/comics/correlation.png" alt="http://imgs.xkcd.com/comics/correlation.png" />
+</center>
+<p><br></p>
+<p>This inspired me to attempt to explain SABH’s criteria using xkcd comics (bear with me, some of these are a stretch..).</p>
+<p><br></p>
+<div id="strength" class="section level3">
+<h3>Strength</h3>
+<ul>
+<li>How big is the effect you are seeing?</li>
+<li>Note: SABH suggests that huge effects <em>can</em> suggest causality, however this does not mean small effects <em>cannot</em></li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/overthinking.png" />
+</center>
+<p><br></p>
 </div>
-<div id="contributed-presentations" class="section level2">
-<h2>Contributed Presentations</h2>
-<ol style="list-style-type: decimal">
-<li><p>Lucy D’Agostino McGowan, Robert Alan Greevy Jr, “Practical Guidance and Tools for Sensitivity to Unmeasured Confouding”Tipping Point&quot; Analyses&quot; Poster presentation at the ASA Joint Statistical Meeting. Chicago, IL, August 2016.</p></li>
-<li><p>Ryan Jarrett, Lucy D’Agostino McGowan, “Assessing the Association Between Accident Injury Severity and NCAP Car Safety Ratings” Oral presentation at the ASA Joint Statistical Meeting. Chicago, IL, August 2016.</p></li>
-<li><p>Lucy D’Agostino McGowan, Alice Toll, “Census Tract-Level Disparities: Examining Food Swamps and Food Deserts” Oral and Poster presentation at the ASA Joint Statistical Meeting. Seattle, WA, August 2015.</p></li>
-<li><p>Lucy D’Agostino McGowan, Melody S. Goodman, “Developing County-Level Estimates of Racial Disparities in Obesity Using Multilevel Reweighted Regression” Poster presentation at the 141st American Public Health Association Annual Meeting. Boston, MA, November 2013.</p></li>
-<li><p>Lucy D’Agostino McGowan, Melody S. Goodman, “Small Areal Estimation of Racial Disparities in Diabetes Using Multilevel Reweighted Regression” Oral presentation at 141st American Public Health Association Annual Meeting. Boston, MA. November 2013.</p></li>
-<li><p>Lucy D’Agostino McGowan, Patrick J. McGowan, “Mining Through Resumes: Utilizing SAS to Increase Efficiency and Objectivity in the Hiring Process” Poster presentation at SAS Analytics. Orlando, Florida. October 2013.</p></li>
-<li><p>Lucy D’Agostino McGowan, “SAS ® for Budgeting an Ideal Wedding” Poster presentation at North East SAS Users Group Conference. Burlington, Vermont. September 2013.</p></li>
-<li><p>Lucy D’Agostino McGowan, Melody S. Goodman, “Using PROC GLIMMIX and PROC SGPLOT to Demonstrate County-level Racial Disparities in Obesity in North Carolina” Oral presentation at North East SAS Users Group Conference. Burlington, Vermont. September 2013.</p></li>
-<li><p>Lucy D’Agostino, Melody S. Goodman, “Multilevel Reweighted Regression Models to Estimate County-Level Racial Health Disparities Using PROC GLIMMIX” Oral presentation at SAS Global Forum, San Francisco, CA. April 2013.</p></li>
-</ol>
+<div id="consistency" class="section level3">
+<h3>Consistency</h3>
+<ul>
+<li>This is essentially <a href="http://kbroman.org/steps2rr/">reproducible research</a> &amp; replicability</li>
+<li>Can your analysis be reproduced?</li>
+<li>Has anyone been able to replicate your findings?</li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/the_difference.png" />
+</center>
+<p><br></p>
+</div>
+<div id="specificity" class="section level3">
+<h3>Specificity</h3>
+<ul>
+<li>Can the association be pinpointed to a specific cause with no other plausible explanation?</li>
+<li>I appreciate SABH’s caveat here, <em>“if specificity exists we may be able to draw conclusions without hesitation; if it is not apparent, we are not thereby necessarily left sitting irresolutely on the fence.”</em></li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/cells.png" />
+</center>
+<p><br></p>
+</div>
+<div id="temporality" class="section level3">
+<h3>Temporality</h3>
+<ul>
+<li>Does the timeline make sense?</li>
+<li>In general, the exposure ought to come before the outcome it is said to cause.</li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/cell_phones.png" />
+</center>
+<p><br></p>
+</div>
+<div id="biological-gradient" class="section level3">
+<h3>Biological gradient</h3>
+<ul>
+<li>The wording of this point makes it a bit difficult to untangle from the medical application, but generally this refers to a dose effect</li>
+<li>Does increasing an exposure yield a change in the outcome.</li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/ballmer_peak.png" />
+</center>
+<p><br></p>
+</div>
+<div id="plausibility" class="section level3">
+<h3>Plausibility</h3>
+<ul>
+<li>Does the causal relationship make sense?</li>
+<li><em>This is also a tricky one since plausibility depends on knowledge at the time. If we found it perfectly plausible, we may not need statistics to show the relationship.</em></li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/extrapolating.png" />
+</center>
+<p><br></p>
+</div>
+<div id="coherence" class="section level3">
+<h3>Coherence</h3>
+<ul>
+<li>Similar to plausibility, is there a logical argument that can be made by/to experts in the field regarding causality.</li>
+<li>Does it fit into the understanding of the field (<em>authors note</em>: this should have caveats too…the field could be wrong).</li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/bridge.png" />
+</center>
+<p><br></p>
+</div>
+<div id="experiment" class="section level3">
+<h3>Experiment</h3>
+<ul>
+<li>If a controlled experiment can take place, this can strengthen the argument for causaility</li>
+<li><em>Authors note</em>: if a controlled experiment were likely/plausible, it seems like we wouldn’t be going through this trouble of assessing causality through other means.</li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/blind_trials.png" />
+</center>
+<p><br></p>
+</div>
+<div id="analogy" class="section level3">
+<h3>Analogy</h3>
+<ul>
+<li>Have we seen a similar effect from a similar exposure?</li>
+</ul>
+<center>
+<img src="http://imgs.xkcd.com/comics/significant.png" />
+</center>
+<p><br></p>
+<p>[1] Hill, A. B. (1965). The Environment and Disease: Association or Causation? Proceedings of the Royal Society of Medicine, 58(5), 295–300.</p>
 </div>
 
 

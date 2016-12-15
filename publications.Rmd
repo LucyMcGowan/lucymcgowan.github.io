@@ -1,0 +1,26 @@
+---
+title: "Publications"
+---
+
+1. Drake, B.F., Brown, K., **D'Agostino McGowan, L.**, Haslag-Minoff, J., Kaphingst, K. (2016). Secondary consent to biospecimen use in a prostate cancer biorepository. BMC Res Notes, 18;9(1):346.
+
+1. **D'Agostino McGowan, L.**, Bullen, J.A., & Obuchowski, N. A. (2016). Location Bias in ROC Studies. Statistics in Biopharmaceutical Research. http://doi.org/10.1080/19466315.2016.1173583
+
+1. **D'Agostino McGowan, L.**, Stafford, J.D., Thompson, V.L., Johnson-Javois, B., & Goodman, M.S. (2015). Quantitative Evaluation of the Community Research Fellows Training Program. Front Public Health. 3,179. 
+
+1. Chen, Y. H., **D'Agostino McGowan, L.**, Cimino, P. J., Dahiya, S., Leonard, J. R., Lee, D. Y., & Gutmann, D. H. (2015). Mouse low-grade gliomas contain cancer stem cells with unique molecular and functional properties. Cell reports, 10(11), 1899-1912.
+
+1. Kaphingst, K. A., Stafford, J. D., **D'Agostino McGowan, L.**, Seo, J., Lachance, C. R., & Goodman, M. S. (2015). Effects of racial and ethnic group and health literacy on responses to genomic risk information in a medically underserved population. Health Psychology, 34(2), 101.
+
+1. Griffey, R. T., Kennedy, S. K., **McGowan, L.**, Goodman, M., & Kaphingst, K. A. (2014). Is Low Health Literacy Associated With Increased Emergency Department Utilization and Recidivism?. Academic emergency medicine, 21(10), 1109-1115.
+
+1.  Diggs-Andrews, K. A., Brown, J. A., Gianino, S. M., **D'Agostino McGowan, L.**, Rubin, J. B., Wozniak, D. F., & Gutmann, D. H. (2014). Reply. Annals of neurology, 75(5), 800-801.
+
+1. Fisher, M. J., Loguidice, M., Gutmann, D. H., Listernick, R., Ferner, R. E., Ullrich, N. J., ...**D'Agostino McGowan, L.** & Liu, G. T. (2014). Gender as a disease modifier in neurofibromatosis type 1 optic pathway glioma. Annals of neurology, 75(5), 799-800.
+
+1. Colditz, G. A., **D'Agostino McGowan, L.**, James, A. S., Bohlke, K., & Goodman, M. S. (2014). Screening for colorectal cancer: Using data to set prevention priorities. Cancer Causes & Control, 25(1), 93-98.
+
+1. **D'Agostino-McGowan, L.**, Gennarelli, R. L., Lyons, S. A., & Goodman, M. S. (2013). Using small-area analysis to estimate county-level racial disparities in obesity demonstrating the necessity of targeted interventions. International journal of environmental research and public health, 11(1), 418-428.
+
+*For all papers:*
+ [Link to PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=D%27Agostino+McGowan+or+Lucy+Mcgowan)

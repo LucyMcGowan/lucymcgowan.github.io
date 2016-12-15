@@ -3,14 +3,17 @@ title: "Hill for the Data Scientist"
 author: "Lucy D'Agostino McGowan"
 date: "December 15, 2016"
 ---
+<br>
 
 *This was inspired by Hilary Parker & Roger Peng's Not So Standard Deviations Episode 28, which can be found [here](https://soundcloud.com/nssd-podcast/episode-28-writing-is-a-lot-harder-than-just-talking). It was suggested that it would be useful to lay out Hill's criterion for data scientists, I agree!*
+
+<br>
 
 <center>
 <span style="color:#EB6864; font-size: 20pt">[**causation**: An event or outcome B is influenced by a change in A]</span></center>
 
 <br>
-Sir Austin Bradford Hill, a statistician and epidemiologist referred to henceforth as SABH, created a list of guidelines for evaluating whether there is evidence of a causal relationship.[1] He determined the following aspects of associations ought to be considered when assessing causality. When thinking about this problem, an [xkcd] (https://xkcd.com/) comic I have seen in *every lecture* on this topic came to mind:
+Sir Austin Bradford Hill, a statistician and epidemiologist referred to henceforth as SABH, created a list of guidelines for evaluating whether there is evidence of a causal relationship.[1] He determined the following aspects of associations ought to be considered when assessing causality. When thinking about this problem, an [xkcd](https://xkcd.com/) comic I have seen in *every lecture* on this topic came to mind:
 
 <center>
 ![http://imgs.xkcd.com/comics/correlation.png](http://imgs.xkcd.com/comics/correlation.png)

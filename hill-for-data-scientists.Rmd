@@ -1,5 +1,5 @@
 ---
-title: "Hill for the Data Scientist"
+title: "Hill for the Data Scientist: an xkcd Story"
 author: "Lucy D'Agostino McGowan"
 date: "December 15, 2016"
 ---

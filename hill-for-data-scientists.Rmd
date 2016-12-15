@@ -13,7 +13,7 @@ date: "December 15, 2016"
 <span style="color:#EB6864; font-size: 20pt">[**causation**: An event or outcome B is influenced by a change in A]</span></center>
 
 <br>
-Sir Austin Bradford Hill, a statistician and epidemiologist referred to henceforth as SABH, created a list of guidelines for evaluating whether there is evidence of a causal relationship.[1] He determined the following aspects of associations ought to be considered when assessing causality. When thinking about this problem, an [xkcd](https://xkcd.com/) comic I have seen in *every lecture* on this topic came to mind:
+Sir Austin Bradford Hill, a statistician and epidemiologist, created a list of guidelines for evaluating whether there is evidence of a causal relationship.[1] He determined the following aspects of associations ought to be considered when assessing causality. When thinking about this problem, an [xkcd](https://xkcd.com/) comic I have seen in *every lecture* on this topic came to mind:
 
 <center>
 ![http://imgs.xkcd.com/comics/correlation.png](http://imgs.xkcd.com/comics/correlation.png)
@@ -21,7 +21,7 @@ Sir Austin Bradford Hill, a statistician and epidemiologist referred to hencefor
 
 <br>
 
-This inspired me to attempt to explain SABH's criteria using xkcd comics (bear with me, some of these are a stretch 🙈💁🏻). 
+This inspired me to attempt to explain Hill's criteria using xkcd comics (bear with me, some of these are a stretch 🙈💁🏻). 
 
 
 
@@ -30,7 +30,7 @@ This inspired me to attempt to explain SABH's criteria using xkcd comics (bear w
 ### Strength
 
 * How big is the effect you are seeing?
-* Note: SABH suggests that huge effects *can* suggest causality, however this does not mean small effects *cannot* 
+* Note: Hill suggests that huge effects *can* suggest causality, however this does not mean small effects *cannot* 
 
 <center>
 ![](http://imgs.xkcd.com/comics/overthinking.png)
@@ -51,7 +51,7 @@ This inspired me to attempt to explain SABH's criteria using xkcd comics (bear w
 ### Specificity
 
 * Can the association be pinpointed to a specific cause with no other plausible explanation?
-* I appreciate SABH's caveat here, *"if specificity exists we may be able to draw conclusions without hesitation; if it is not apparent, we are not thereby necessarily left sitting irresolutely on the fence."*
+* I appreciate Hill's caveat here, *"if specificity exists we may be able to draw conclusions without hesitation; if it is not apparent, we are not thereby necessarily left sitting irresolutely on the fence."*
 
 <center>
 ![](http://imgs.xkcd.com/comics/cells.png)
@@ -101,7 +101,7 @@ This inspired me to attempt to explain SABH's criteria using xkcd comics (bear w
 ### Experiment
 
 * If a controlled experiment can take place, this can strengthen the argument for causality 
-* *Authors note*: if a controlled experiment were likely/plausible, it seems like we wouldn't be going through this trouble of assessing causality through other means. 
+* I view this as a general attempt to implement a counterfactual analysis.
 
 <center>
 ![](http://imgs.xkcd.com/comics/blind_trials.png)

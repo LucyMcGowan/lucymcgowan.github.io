@@ -21,7 +21,7 @@ Sir Austin Bradford Hill, a statistician and epidemiologist referred to hencefor
 
 <br>
 
-This inspired me to attempt to explain SABH's criteria using xkcd comics (bear with me, some of these are a stretch..). 
+This inspired me to attempt to explain SABH's criteria using xkcd comics (bear with me, some of these are a stretch 🙈💁🏻). 
 
 
 
@@ -39,7 +39,7 @@ This inspired me to attempt to explain SABH's criteria using xkcd comics (bear w
 
 ### Consistency
 
-* This is essentially [reproducible research](http://kbroman.org/steps2rr/) & replicability
+* This is essentially [reproducibility](http://kbroman.org/steps2rr/) & replicability
 * Can your analysis be reproduced?
 * Has anyone been able to replicate your findings?
 
@@ -100,7 +100,7 @@ This inspired me to attempt to explain SABH's criteria using xkcd comics (bear w
 
 ### Experiment
 
-* If a controlled experiment can take place, this can strengthen the argument for causaility 
+* If a controlled experiment can take place, this can strengthen the argument for causality 
 * *Authors note*: if a controlled experiment were likely/plausible, it seems like we wouldn't be going through this trouble of assessing causality through other means. 
 
 <center>
@@ -118,5 +118,7 @@ This inspired me to attempt to explain SABH's criteria using xkcd comics (bear w
 <br>
 
 
-
 [1] Hill, A. B. (1965). The Environment and Disease: Association or Causation? Proceedings of the Royal Society of Medicine, 58(5), 295–300.
+
+
+*Think I've missed something? Submit a [PR](https://github.com/LucyMcGowan/lucymcgowan.github.io/pulls).*

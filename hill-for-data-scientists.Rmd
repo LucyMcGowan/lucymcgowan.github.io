@@ -16,7 +16,9 @@ date: "December 15, 2016"
 Sir Austin Bradford Hill, a statistician and epidemiologist, created a list of guidelines for evaluating whether there is evidence of a causal relationship.[1] He determined the following aspects of associations ought to be considered when assessing causality. When thinking about this problem, an [xkcd](https://xkcd.com/) comic I have seen in *every lecture* on this topic came to mind:
 
 <center>
-![http://imgs.xkcd.com/comics/correlation.png](http://imgs.xkcd.com/comics/correlation.png)
+<a href=" http://xkcd.com/552/">
+  <img src="http://imgs.xkcd.com/comics/correlation.png" alt="correlation">
+</a>
 </center>
 
 <br>
@@ -32,9 +34,13 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * How big is the effect you are seeing?
 * Note: Hill suggests that huge effects *can* suggest causality, however this does not mean small effects *cannot* 
 
+
 <center>
-![](http://imgs.xkcd.com/comics/overthinking.png)
+<a href="http://xkcd.com/1592/">
+  <img src="http://imgs.xkcd.com/comics/overthinking.png" alt="strength">
+</a>
 </center>
+
 <br>
 
 ### Consistency
@@ -44,8 +50,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * Has anyone been able to replicate your findings?
 
 <center>
-![](http://imgs.xkcd.com/comics/the_difference.png)
+<a href="http://xkcd.com/242/">
+  <img src="http://imgs.xkcd.com/comics/the_difference.png" alt="consistency">
+</a>
 </center>
+
 <br>
 
 ### Specificity
@@ -54,8 +63,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * I appreciate Hill's caveat here, *"if specificity exists we may be able to draw conclusions without hesitation; if it is not apparent, we are not thereby necessarily left sitting irresolutely on the fence."*
 
 <center>
-![](http://imgs.xkcd.com/comics/cells.png)
+<a href="http://xkcd.com/1217/">
+  <img src="http://imgs.xkcd.com/comics/cells.png" alt="specificity">
+</a>
 </center>
+
 <br>
 
 ### Temporality
@@ -64,8 +76,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * In general, the exposure ought to come before the outcome it is said to cause.
 
 <center>
-![](http://imgs.xkcd.com/comics/cell_phones.png)
+<a href="http://xkcd.com/925/">
+  <img src="http://imgs.xkcd.com/comics/cell_phones.png" alt="temporality">
+</a>
 </center>
+
 <br>
 
 ### Biological gradient
@@ -74,8 +89,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * Does increasing an exposure yield a change in the outcome.
 
 <center>
-![](http://imgs.xkcd.com/comics/ballmer_peak.png)
+<a href="http://xkcd.com/323/">
+  <img src="http://imgs.xkcd.com/comics/ballmer_peak.png" alt="biological-gradient">
+</a>
 </center>
+
 <br>
 
 ### Plausibility
@@ -84,8 +102,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * *This is also a tricky one since plausibility depends on knowledge at the time. If we found it perfectly plausible, we may not need statistics to show the relationship.*
 
 <center>
-![](http://imgs.xkcd.com/comics/extrapolating.png)
+<a href="http://xkcd.com/605/">
+  <img src="http://imgs.xkcd.com/comics/extrapolating.png" alt="plausibility">
+</a>
 </center>
+
 <br>
 
 ### Coherence
@@ -94,8 +115,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * Does it fit into the understanding of the field (*authors note*: this should have caveats too...the field could be wrong).
 
 <center>
-![](http://imgs.xkcd.com/comics/bridge.png)
+<a href="http://xkcd.com/1170/">
+  <img src="http://imgs.xkcd.com/comics/bridge.png" alt="coherence">
+</a>
 </center>
+
 <br>
 
 ### Experiment
@@ -104,8 +128,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * I view this as a general attempt to implement a counterfactual analysis.
 
 <center>
-![](http://imgs.xkcd.com/comics/blind_trials.png)
+<a href="http://xkcd.com/1462/">
+  <img src="http://imgs.xkcd.com/comics/blind_trials.png" alt="experiment">
+</a>
 </center>
+
 <br>
 
 ### Analogy
@@ -113,8 +140,11 @@ This inspired me to attempt to explain Hill's criteria using xkcd comics, both b
 * Have we seen a similar effect from a similar exposure? 
 
 <center>
-![](http://imgs.xkcd.com/comics/significant.png)
+<a href="http://xkcd.com/882/">
+  <img src="http://imgs.xkcd.com/comics/significant.png" alt="analogy">
+</a>
 </center>
+
 <br>
 
 

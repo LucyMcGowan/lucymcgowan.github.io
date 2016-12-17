@@ -7,7 +7,7 @@ title: "Comps Survival Guide"
 
 
 
-*These are some tools I put together while studying for first year comprehensive exams. Since I spent many a late night on them, I am hoping someone else can make use of them.*
+*These are some tools I put together while studying for first year comprehensive exams. Since I spent many a late night on them, I am hoping someone else can make use of them. Below are flashcards, practice exams, and some goofy ways to memorize theorems, but first, an xkcd comic..*
 
 <br>
 
@@ -21,9 +21,9 @@ title: "Comps Survival Guide"
 
 ### <span style="color:#EB6864; font-size: 20pt">flashcards</span>
 
-* I have created a pdf of over 200 flash cards that cover foundations of statistical inference and fundamentals of probability, print double-sided & cut ✁ them out for a fun evening of studying bliss! [[download here](https://github.com/LucyMcGowan/comps-survival-guide/blob/master/FlashCards.pdf)]
+* I have created a pdf of over 200 flash cards that cover foundations of statistical inference and fundamentals of probability, print double-sided & cut ✁ them out for a fun evening of studying bliss! [[view here](https://docs.google.com/viewer?url=https://github.com/LucyMcGowan/comps-survival-guide/raw/master/FlashCards.pdf), [download here](https://github.com/LucyMcGowan/comps-survival-guide/raw/master/FlashCards.pdf)]
 * These are hosted on  [github](https://github.com/LucyMcGowan/comps-survival-guide/blob/master/FlashCards.tex) -- please add to them!
-* If you notice a mistake, submit a PR & fix it
+* If you notice a mistake, please submit a PR & fix it 🙏🏼 
 
 ### <span style="color:#EB6864; font-size: 20pt">practice exams</span>
 
@@ -38,7 +38,7 @@ title: "Comps Survival Guide"
 
 ### <span style="color:#EB6864; font-size: 20pt">theoretically hilarious</span>
 
-*these may or may not help you memorize some theorems -- click on the theorem below*
+*these may or may not help you memorize some theorems -- to find out, click on the theorem below*
 
 
 * <a id="show_image">Lehmann-Scheffe</a>

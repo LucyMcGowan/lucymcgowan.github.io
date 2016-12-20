@@ -7,6 +7,7 @@ output:
 ---
 
 
+*Not So Standard Deviations is currently my writing muse (see [my inspiration](http://www.lucymcgowan.com/hill-for-data-scientists.html) from their [28th Episode](https://soundcloud.com/nssd-podcast/episode-28-writing-is-a-lot-harder-than-just-talking)). This week, Roger Peng was discussing traffic data ([listen here](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes)), inspiring me to solicit some input on a weird result my colleague Ryan and I found this summer.*
 
 ```{r, include = FALSE, echo=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -43,7 +44,7 @@ colnames(prop3)<-c("2- or 3-Stars","4-Stars","5-Stars")
 
 
 ## Summary
-We won the Government Statistics Section JSM Data Challenge. **We found that in mid-sized cars, vehicles that were in accidents with lower star ratings were more likely to have injured passengers (Figures 2 and 4).** We delve into this further with an interactive scatterplot (Figure 5), allowing the user to examine the specific make and star rating of each car, along with the % of accidents with at least one injured passenger. You will notice there is certainly a sparsity of data in these lower-stare regions, in terms of types of vehicles, however they do represent a decent proportion of the weighted sample (201,239.8 (8.1%)), since these are commonly purchased cars. 
+This past August we won the Government Statistics Section JSM Data Challenge. **We found that in mid-sized cars, vehicles that were in accidents with lower star ratings were more likely to have injured passengers (Figures 2 and 4).** We delve into this further with an interactive scatterplot (Figure 5), allowing the user to examine the specific make and star rating of each car, along with the % of accidents with at least one injured passenger. You will notice there is certainly a sparsity of data in these lower-stare regions, in terms of types of vehicles, however they do represent a decent proportion of the weighted sample (201,239.8 (8.1%)).
 
 <center>
 
@@ -79,7 +80,7 @@ plot2
 
 <br>
 
-```{r, warning = FALSE, message = FALSE, fig.height=5, fig.cap = "Figure 5: Percent Injured by rating"}
+```{r, warning = FALSE, message = FALSE, fig.height=5, fig.cap = "Figure 5: Percent injured by rating & vehicle make and model."}
 #create a table of proportion injured by car type
 t<-prop.table(svytable(~mm.id+injured,subset(subset,vehicle.weight3==1)),1)
 t.injured<-data.frame(mm.id=rownames(t),injured=t[,2])
@@ -101,7 +102,7 @@ plot_ly(data = t2, x = ~injured, y = ~rating, type = "scatter", mode = "markers"
 
 </center>
 
-We are hoping this will pique your interest. **We would love your input! Perhaps we missed an important confounder, or maybe our data was too sparce to be conclusive.** All of the data can be found [here](https://github.com/LucyMcGowan/NHTSA-safety-analysis/tree/master/data) along with our [raw analysis files](https://github.com/LucyMcGowan/NHTSA-safety-analysis/blob/master/raw-code.Rmd)**. Continue reading for more detailed information about our analysis.
+We are hoping this will pique your interest. **Perhaps we missed an important confounder, or maybe our data was too sparce to be conclusive, or maybe you think this whole thing is silly, and we definitely shouldn't have won...either way we'd like your input!** All of the data can be found [here](https://github.com/LucyMcGowan/NHTSA-safety-analysis/tree/master/data) along with our [raw analysis files](https://github.com/LucyMcGowan/NHTSA-safety-analysis/blob/master/raw-code.Rmd). I would **love** to collaborate on this. Continue reading for more detailed information about our analysis.
 
 ***
 
@@ -226,7 +227,7 @@ NHTSA Safety Rating |	Weighted frequency (%)
 
 Figures 1, 2, and 3 show the injury & safety ratings by weight class. Figure 2 shows the concerning result that 2-3 star rated cars in the mid-size weight class have proportionally fewer injuries. These results hold true after adjusting for the covariates, this result held true (Figure 4). **Here is where we would love your input! Perhaps we missed an important confounder. All of the data can be found [here](https://github.com/LucyMcGowan/NHTSA-safety-analysis/tree/master/data) along with our [raw analysis files](https://github.com/LucyMcGowan/NHTSA-safety-analysis/blob/master/raw-code.Rmd)**.
 
-
+<center>
 ```{r, fig.cap="Figure 1: Maximum Injury by Saftey Rating (Weight <3000lb)", fig.height = 3}
 
 p <- plot_ly(
@@ -287,9 +288,12 @@ plot3
 
 ![Figure 4: Effect of 5-star ratings on log odds of injury, stratified by weight class, adjusting for accident condition variables (weather, point of impact, type of accident etc.) and passenger-level variables (age, sex, alcohol, seat-belt use, etc.), with 2-3 star rated vehicles as the reference.](https://raw.githubusercontent.com/LucyMcGowan/NHTSA-safety-analysis/master/figs/logodds.png)
 
+</center>
+
 To delve into this further, we have an interactive scatter plot, which allows the user to examine the specific make and star rating of each car, along with the % of accidents with at least one injured passenger (Figure 5).
 
-```{r, warning = FALSE, message = FALSE, fig.height=5, fig.cap = "Figure 5: Percent Injured by rating"}
+<center>
+```{r, warning = FALSE, message = FALSE, fig.height=5, fig.cap = "Figure 5: Percent injured by rating & vehicle make and model."}
 #create a table of proportion injured by car type
 t<-prop.table(svytable(~mm.id+injured,subset(subset,vehicle.weight3==1)),1)
 t.injured<-data.frame(mm.id=rownames(t),injured=t[,2])
@@ -308,6 +312,7 @@ y <- list(
 plot_ly(data = t2, x = ~injured, y = ~rating, type = "scatter", mode = "markers", color = ~make.name) %>%
     layout( xaxis=x,yaxis=y)
 ```
+</center>
 
 ### Conclusions
 We have some evidence to show that ratings contribute to whether or not passengers are injured, however this relationship is complex.

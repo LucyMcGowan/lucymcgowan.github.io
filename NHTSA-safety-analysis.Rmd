@@ -1,5 +1,5 @@
 ---
-title: "Assessing the Association Between Accident Injury Severity and NCAP Car Safety Ratings"
+title: "Assessing the Association Between Accident Injuries and NCAP Car Safety Ratings"
 author: "Lucy D’Agostino McGowan & Ryan Jarrett"
 output:
   html_document:

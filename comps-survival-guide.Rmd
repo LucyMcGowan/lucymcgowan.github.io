@@ -19,6 +19,12 @@ title: "Comps Survival Guide"
 
 </center>
 
+and now one of my own...
+
+<center>
+<img src="https://raw.githubusercontent.com/LucyMcGowan/comps-survival-guide/master/basu.png">
+</center>
+
 <center>
 <span style="color:#EB6864; font-size: 20pt">[**Biostatistics Comps**: a Vanderbilt student's study tools]</span></center>
 

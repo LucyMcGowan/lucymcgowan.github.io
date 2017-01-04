@@ -252,12 +252,12 @@ personaltouch &lt;- function(input, pt = &quot;I hope you have a lovely New Year
 from &lt;- function(input, us = &quot;us&quot;){
   cat(input, &quot;\n Cheers,\n&quot;, us)
 }</code></pre>
-<pre class="r"><code>&quot;A Thank You Note&quot; %&gt;%
+<pre class="r"><code>&quot;A dplyr Thank You Note&quot; %&gt;%
   dear(you = &quot;R Studio&quot;) %&gt;%
   thank_you(for_the = &quot;opportunity to attend rstudio::conf.&quot;) %&gt;%
   personaltouch(pt = &quot;We are SO looking forward to learning from and with you all.&quot;) %&gt;%
   from(us = &quot;Lucy, Jacquelyn, and Alli&quot;)</code></pre>
-<pre><code>## A Thank You Note
+<pre><code>## A dplyr Thank You Note
 ## Dear R Studio, 
 ##  Thank you for the opportunity to attend rstudio::conf. We are SO looking forward to learning from and with you all. 
 ##  Cheers,

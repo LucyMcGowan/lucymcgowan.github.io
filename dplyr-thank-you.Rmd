@@ -26,7 +26,7 @@ from <- function(input, us = "us"){
 
 
 ```{r}
-"A Thank You Note" %>%
+"A dplyr Thank You Note" %>%
   dear(you = "R Studio") %>%
   thank_you(for_the = "opportunity to attend rstudio::conf.") %>%
   personaltouch(pt = "We are SO looking forward to learning from and with you all.") %>%

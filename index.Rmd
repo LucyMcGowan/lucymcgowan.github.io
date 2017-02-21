@@ -57,10 +57,10 @@ title: ""
 ## Recent Projects
 <br/><br/>
 
-### Nashville Housing Tool
-Created a tool for incoming graduate students to help with housing decisions.
+### Tidy Text GUI
+Created a tool for analyzing text based on 'Text Mining with R: A Tidy Approach' by Julia Silge and David Robinson, found [here](http://tidytextmining.com).
 
-<iframe src="https://lucy.shinyapps.io/NashvilleMap/" style="border: none; width: 100%; height: 400px"></iframe>
+<iframe src="https://lucy.shinyapps.io/tidy-text-GUI/" style="border: none; width: 100%; height: 400px"></iframe>
 
 <br/><br/><br/><br/><br/><br/>
 

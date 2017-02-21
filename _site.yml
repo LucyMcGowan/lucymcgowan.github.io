@@ -13,6 +13,8 @@ navbar:
           href: https://github.com/LucyMcGowan
         - icon: fa-envelope
           href: mailto:ld.mcgowan@vanderbilt.edu
+    - text: "blog"
+      href: http://livefreeordichotomize.com
     - text: "presentations"
       href: presentations.html
     - text: "publications"

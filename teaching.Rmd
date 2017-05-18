@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: "Lucy's Teaching Experience"
 ---
 <br>
 </br>
@@ -9,6 +9,7 @@ title: "Teaching Experience"
 
 ### Vanderbilt University
 
+* Frank Harrell's Regression Modeling Strategies (2017)
 * Statistical Collaboration in Health Sciences Teaching Assistant (2015) 
 * Modern Regression Analysis Teaching Assistant (2015)
 * Principles of Modern Biostatistics Teaching Assistant (2014)

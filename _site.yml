@@ -22,7 +22,7 @@ navbar:
     - text: "teaching experience"
       href: teaching.html
     - text: "CV"
-      href: http://lucymcgowan.github.io/DAgostino McGowan CV.pdf
+      href: http://www.lucymcgowan.com/html-cv/live-cv.html
 output:
   html_document:
     theme: journal

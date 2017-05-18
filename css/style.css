@@ -10,3 +10,11 @@ div.scroll {
     width: 100%;
     overflow-x: scroll;
 }
+
+blockquote {
+    border-left:none;
+    font-size: 1em;
+    display: block;
+    margin-top: .25em;
+    margin-left: 20px;
+}

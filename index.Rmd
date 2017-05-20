@@ -54,17 +54,31 @@ title: ""
 ***
 <br/><br/>
 
-## Recent Projects
-<br/><br/>
+## Current Projects
 
-### Tidy Text GUI
-Created a tool for analyzing text based on 'Text Mining with R: A Tidy Approach' by Julia Silge and David Robinson, found [here](http://tidytextmining.com).
+### Biostatistics
 
-<iframe src="https://lucy.shinyapps.io/tidy-text-GUI/" style="border: none; width: 100%; height: 600px"></iframe>
+* NIH [BD2K](https://commonfund.nih.gov/bd2k) fellow
 
-<br/><br/><br/><br/><br/><br/>
+* Working with National Veterans Health Administration databases, linked to Medicare, Medicaid, and National Death Index data to examine [diabetes medications and their association with heart failure risk](http://jaha.ahajournals.org/content/6/4/e005379.short)
 
-### Binomial Coverage
-Created an application to facilitate an understanding of coverage probability.
+* developing methods for clarifying and contextualizing [sensitivity to unmeasured confounding analyses](https://www.slideshare.net/LucyDAgostinoMcGowan/clarifying-and-contextualizing-sensitivity-to-unmeasured-confounders-tipping-point-analyses)
 
-<iframe src="https://lucy.shinyapps.io/BinomialCoverage/" style="border: none; width: 100%; height: 400px"></iframe>
+* propensity score analysis methods
+
+* developing methods for large scale inference
+
+
+### R packages
+
+* [googledrive](https://github.com/tidyverse/googledrive): an R package that interfaces with Google Drive from R, allowing users to seamlessly manage files on Google Drive from the comfort of their console. 
+
+### Shiny Apps
+
+* [papr](https://jhubiostatistics.shinyapps.io/papr/): Tinder for pre-prints, a Shiny Application developed in collaboration with [Jeff Leek](http://twitter.com/jtleek) and [Nick Strayer](http://twitter.com/nstrayer) for collecting gut-reactions to pre-prints from the scientific community 
+
+* [Binomial Coverage](https://lucy.shinyapps.io/BinomialCoverage/): an application to facilitate an understanding of coverage probability.
+
+* [contributr](http://ropensci.shinyapps.io/contributr): an application developed in collaboration with [Maelle](http://twitter.com/masalmon) and [rOpenSci](http://ropensci.org) for finding beginner GitHub issues to contribute to. 
+
+* [Tidy Text GUI](https://lucy.shinyapps.io/tidy-text-GUI/):  a tool for analyzing text based on 'Text Mining with R: A Tidy Approach' by Julia Silge and David Robinson, found [here](http://tidytextmining.com).

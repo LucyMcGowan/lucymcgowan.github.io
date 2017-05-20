@@ -81,4 +81,4 @@ title: ""
 
 * [contributr](http://ropensci.shinyapps.io/contributr): an application developed in collaboration with [Maelle](http://twitter.com/masalmon) and [rOpenSci](http://ropensci.org) for finding beginner GitHub issues to contribute to. 
 
-* [Tidy Text GUI](https://lucy.shinyapps.io/tidy-text-GUI/):  a tool for analyzing text based on 'Text Mining with R: A Tidy Approach' by Julia Silge and David Robinson, found [here](http://tidytextmining.com).
+* [Tidy Text GUI](https://lucy.shinyapps.io/tidytext-GUI/):  a tool for analyzing text based on 'Text Mining with R: A Tidy Approach' by Julia Silge and David Robinson, found [here](http://tidytextmining.com).

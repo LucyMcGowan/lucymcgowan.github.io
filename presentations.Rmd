@@ -13,11 +13,13 @@ library("googlesheets")
 ```
 
 
-```{r, results = "asis", echo = FALSE}
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
 presentations <- gs_url("https://docs.google.com/spreadsheets/d/1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA/edit#gid=0", verbose = FALSE) %>%
   gs_read(verbose = FALSE) %>%
   arrange(invited, desc(when))
+```
 
+```{r, results = "asis", echo = FALSE}
 invited <- presentations %>%
   filter(invited == 1)
 
